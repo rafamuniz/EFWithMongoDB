@@ -1,0 +1,4 @@
+*.suo
+.vs
+EFWithMongoDB/EFWithMongoDB/bin/
+EFWithMongoDB/EFWithMongoDB/obj/
